@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RadostinAtansov
 - 👀 I’m interested in C# and JavaScript
 - 🌱 I’m currently learning C# and JavaScript
-- 💞️ I’m looking to collaborate on StartUp, Project
+- 💞️ I’m looking to collaborate on StartUp, Projects
 - 📫 How to reach me radstatan@gmail.com
 
 <!---
