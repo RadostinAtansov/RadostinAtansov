@@ -24,8 +24,6 @@
 
 - :telescope: I’m looking for a C# ASP.Net intern/junior Software Engineer opportunity - backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 - :mailbox:How to reach me: radstatan@gmail.com
