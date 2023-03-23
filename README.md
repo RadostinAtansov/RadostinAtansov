@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-https://komarev.com/ghpvc/?username=Radul-github-RadostinAtansov
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h1 align="center">Hi 👋, I'm Radostin</h1>
 <h3 align="center">A passionate C# Backend developer</h3>
 
