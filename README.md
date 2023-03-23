@@ -15,7 +15,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radostinatansov&label=Profile%20views&color=0e75b6&style=flat" alt="radostinatansov" /> </p>
 
 
 
@@ -37,4 +36,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RadostinAtansov&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadostinAtansov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=radostinatansov&label=Profile%20views&color=0e75b6&style=flat" alt="radostinatansov" /> </p>
 
