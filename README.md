@@ -17,9 +17,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radostinatansov&label=Profile%20views&color=0e75b6&style=flat" alt="radostinatansov" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/RadostinAtansov?tab=repositories](https://github.com/RadostinAtansov?tab=repositories)
 
-- 📫 How to reach me **radstatan@gmail.com**
+
+
+### 👨‍💻: About Me :
+
+- :telescope: I’m looking for a C# ASP.Net intern/junior Software Engineer opportunity - backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+
+- :mailbox:How to reach me: radstatan@gmail.com
 
 
 
