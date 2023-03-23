@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14971
-Fork on GitHub
-4031
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Radostin</h1>
 <h3 align="center">A passionate C# Backend developer</h3>
 
