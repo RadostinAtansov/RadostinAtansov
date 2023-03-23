@@ -12,11 +12,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<h1 align="center">Hi 👋, I'm Radostin</h1>
+<h3 align="center">A passionate C# Backend developer</h3>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1 align="center">Hi 👋, I'm Radostin</h1>
-<h3 align="center">A passionate C# Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radostinatansov&label=Profile%20views&color=0e75b6&style=flat" alt="radostinatansov" /> </p>
 
