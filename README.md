@@ -20,7 +20,7 @@
 
 
 
-### 👨‍💻: About Me :
+👨‍💻: About Me :
 
 - :telescope: I’m looking for a C# ASP.Net intern/junior Software Engineer opportunity - backend for building web applications.
 
